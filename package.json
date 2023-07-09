@@ -1,0 +1,50 @@
+{
+  "name": "ag-grid-examples-with-typescript",
+  "version": "1.0.0",
+  "description": "A collection of ag-grid examples in typescript.\n\nUses ag-grid modules.\nUses enterprise modules.",
+  "keywords": [
+    "typescript",
+    "ag-grid"
+  ],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@ag-grid-community/react": "26.1.0",
+    "@ag-grid-enterprise/all-modules": "26.1.0",
+    "@emotion/react": "11.5.0",
+    "@emotion/styled": "11.3.0",
+    "@fortawesome/fontawesome-svg-core": "1.2.36",
+    "@fortawesome/free-solid-svg-icons": "5.15.4",
+    "@fortawesome/react-fontawesome": "0.1.16",
+    "@mui/material": "5.1.0",
+    "@mui/styles": "5.1.0",
+    "@types/lodash": "4.14.176",
+    "@types/luxon": "2.0.7",
+    "@types/node": "16.11.7",
+    "@types/react": "17.0.34",
+    "@types/react-dates": "21.8.3",
+    "@types/react-dom": "17.0.11",
+    "@types/react-router-dom": "5.3.2",
+    "lodash": "4.17.21",
+    "luxon": "2.1.1",
+    "moment": "2.29.1",
+    "react": "17.0.2",
+    "react-dates": "21.8.0",
+    "react-dom": "17.0.2",
+    "react-router-dom": "6.0.2",
+    "react-scripts": "4.0.3",
+    "typescript": "4.4.4",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

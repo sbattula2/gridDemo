@@ -1,0 +1,10 @@
+{
+  "container": {
+    "node": "14"
+  },
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": false,
+  "node": "14",
+  "template": "create-react-app-typescript",
+  "view": "browser"
+}

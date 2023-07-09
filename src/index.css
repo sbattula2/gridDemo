@@ -1,0 +1,7 @@
+#root {
+  height: calc(100vh - 1rem);
+  overflow: "hidden";
+
+  display: flex;
+  flex-direction: column;
+}
